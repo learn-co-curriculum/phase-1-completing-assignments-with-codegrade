@@ -60,8 +60,8 @@ Click on that, and you should get a screen that looks something like this:
 Verify that your GitHub username is showing in the **Owner** dropdown, then
 click the **Create fork** button.
 
-:bulb: **NEW:** There is no more Fork button in Canvas; instead, you'll navigate
-to the lab's GitHub repo and fork from there.
+:heavy_exclamation_mark: **NEW:** There is no more Fork button in Canvas;
+instead, you'll navigate to the lab's GitHub repo and fork from there.
 
 Forking is a process which creates an exact copy of a collection of code and
 files. Once you've created a fork on your own GitHub account, you will be able
@@ -128,8 +128,8 @@ the tests. You should again see a flurry of text as dependencies are installed.
 > change the versions of the node dependencies for a lesson, which we do _not_
 > want to do.
 
-:bulb: **NEW:** Run `npm install` to install the tests' dependencies each time
-you clone down a lab.
+:heavy_exclamation_mark: **NEW:** Run `npm install` to install the tests'
+dependencies each time you clone down a lab.
 
 Once the installations are complete, run `npm test` in the terminal. You should
 see the results of your tests. By cloning this assignment down, you've already
@@ -148,7 +148,8 @@ This assignment
 1 failing
 ```
 
-:bulb: **NEW:** Run `npm test` instead of `learn test` to run the test suite.
+:heavy_exclamation_mark: **NEW:** Run `npm test` instead of `learn test` to run
+the test suite.
 
 Although you passed one test, there is still one test not passing. The terminal
 gave us a detailed "AssertionError" saying why we did not pass the test:
@@ -219,8 +220,8 @@ The process requires three terminal commands:
 [pushing-with-git]:
   https://github.com/learn-co-curriculum/phase-0-git-pushing-code
 
-:bulb: **NEW:** You will use git commands to commit and push your code up to
-GitHub.
+:heavy_exclamation_mark: **NEW:** You will use git commands to commit and push
+your code up to GitHub.
 
 These commands should be run in the terminal within the directory with changes
 to push. For example with this assignment, you should be running the commands
@@ -296,8 +297,8 @@ The final step is to submit your work to Canvas by connecting your repo to
 CodeGrade. Before continuing with the steps below, **make sure that you're
 logged in to your GitHub account.**
 
-:bulb: **NEW:** To get credit for the lab in Canvas, you will submit your work
-using CodeGrade.
+:heavy_exclamation_mark: **NEW:** To get credit for the lab in Canvas, you will
+submit your work using CodeGrade.
 
 To submit your work for grading, head back to the assignment on Canvas and
 scroll down to the bottom of the page. There, you should see a button that says
