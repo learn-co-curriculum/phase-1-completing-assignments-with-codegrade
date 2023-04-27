@@ -34,6 +34,19 @@ Below is the general process you will learn:
 
 We will go through each of these steps in detail below.
 
+## Canvas Due Dates
+
+**Important**: In order to set up CodeGrade on a Canvas assignment it is
+necessary to set a due date. To ensure that all students — regardless of which
+program they are in — will be able to submit their assignments before the due
+date, _default_ due dates are set to two years from when the Canvas course is
+created, well after students must complete the course.
+
+As a result, these _default_ dates **should not** be used as a guide to determine
+pacing through the program. Students in the Flex program should instead use the
+Flex milestones to stay on pace, and students in the Live program should follow
+the schedule laid out by their instructor.
+
 ## Completing and Submitting Assignments
 
 ### Accessing GitHub and Forking
@@ -359,17 +372,6 @@ Whew, that was a lot. While it will take some time in the beginning, the more
 assignments you complete and submit, the easier the process should become. If
 you ever forget a step, that's OK. Come back to this lesson as many times as you
 need until it becomes second nature.
-
-**Important Note Regarding Due Dates**: In order to set up CodeGrade on a Canvas
-assignment it is necessary to set a due date. To ensure that all students —
-regardless of which program they are in — will be able to submit their
-assignments before the due date, default due dates are set to two years from
-when the Canvas course is created, well after students must complete the course.
-
-As a result, these default dates **should not** be used as a guide to determine
-pacing through the program. Students in the Flex program should instead use the
-Flex milestones to stay on pace, and students in the Live program should follow
-the schedule laid out by their instructor.
 
 ## Troubleshooting
 
